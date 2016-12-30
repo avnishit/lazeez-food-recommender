@@ -1,0 +1,44 @@
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.Form1.resources
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.Properties.Resources.resources
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.csproj.GenerateResource.Cache
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\bin\Debug\FoodReco.exe
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\bin\Debug\FoodReco.pdb
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.exe
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.pdb
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco\FoodReco\obj\x86\Debug\FoodReco.csprojResolveAssemblyReference.cache
+D:\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.exe
+D:\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.pdb
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.exe
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.pdb
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\bin\Debug\FoodReco.exe
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\bin\Debug\FoodReco.pdb
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.csprojResolveAssemblyReference.cache
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.Form1.resources
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.Properties.Resources.resources
+D:\BITS Pilani\4-1\Advanced Data Mining\ADM Project 2\FoodReco_22\FoodReco\obj\x86\Debug\FoodReco.csproj.GenerateResource.Cache
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\bin\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\bin\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.csprojResolveAssemblyReference.cache
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.Form1.resources
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.Properties.Resources.resources
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodReco_23\FoodReco\obj\x86\Debug\FoodReco.csproj.GenerateResource.Cache
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\bin\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\bin\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.csprojResolveAssemblyReference.cache
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.Form1.resources
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.Properties.Resources.resources
+F:\Academics\Advanced Data Mining\Assignment 2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.csproj.GenerateResource.Cache
+F:\Academics\Advanced Data Mining\Assignment 2\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment 2\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\OLD Projs\Lazeez Food Recommendor\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\OLD Projs\Lazeez Food Recommendor\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment2\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment2\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.pdb
+F:\Academics\Advanced Data Mining\Assignment2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.exe
+F:\Academics\Advanced Data Mining\Assignment2\Dhruv_temp_1\FoodRecommendations\FoodReco\obj\x86\Debug\FoodReco.pdb
