@@ -1,1 +1,1 @@
-# lazeez_food_recommender
+# Lazeez Food Recommender
